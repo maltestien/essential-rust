@@ -1,6 +1,6 @@
 layout: page
 title: "Why I picked GitHub Pages for this Blog"
-permalink: /pages/why-github-pages
+permalink: /pages/why-github-pages/
 
 ---
 
